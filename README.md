@@ -4,3 +4,5 @@ However, the problem using a real-life breadboard is that,students may not be ab
 Also it prevents from any kind of electrical issues like short-ciruit and very well prevents the threat to life.
 Most bread boards can handle up to 1A through their connections at digital-level voltages (5V and below).  Even so, I would really try to limit current through any breadboard to the 500mA range.
 Over time, the little clips and springs that make up the connections inside the breadboard wear out.  If you push a wire in too far (and too hard) you may make unintended connections.  As you change connections around, you might bump a wire or resistor sticking up which may make (or break) a connection.
+
+( Kindly go through the BreadBoard_Simulator_Report to understand the project and its code )
