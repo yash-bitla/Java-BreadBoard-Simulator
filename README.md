@@ -80,34 +80,34 @@ Screenshots of the application in various states can be found here.
   <p><b>Figure 1:</b> Breadboard</p>
 </div>
 
-<div align="center">
-  <div style="display: flex; align-items: center; justify-content: center;">
-    <div style="margin-right: 10px;">
+<table align="center">
+  <tr>
+    <td>
       <img src="assets/2.png" alt="Pin Configuration" title="Pin Configuration" />
-    </div>
-    <div style="margin-left: 10px;">
+    </td>
+    <td>
       <img src="assets/3.png" alt="Pin Configuration" title="Pin Configuration" />
-    </div>
-  </div>
-  <p><b>Figure 2:</b> Pin Configuration</p>
-</div>
+    </td>
+  </tr>
+</table>
+<p align="center"><b>Figure 2:</b> Pin Configuration</p>
 
 <div align="center">
   <img src="assets/4.png" alt="Breadboard Connection" title="Breadboard Connection" />
   <p><b>Figure 3:</b> Breadboard Connection</p>
 </div>
 
-<div align="center">
-  <div style="display: flex; align-items: center; justify-content: center;">
-    <div style="margin-right: 10px;">
+<table align="center">
+  <tr>
+    <td>
       <img src="assets/5.png" alt="Pin Configuration" title="Pin Configuration" />
-    </div>
-    <div style="margin-left: 10px;">
+    </td>
+    <td>
       <img src="assets/6.png" alt="Pin Configuration" title="Pin Configuration" />
-    </div>
-  </div>
-  <p><b>Figure 2:</b> Truth Table Output</p>
-</div>
+    </td>
+  </tr>
+</table>
+<p align="center"><b>Figure 2:</b> Truth Table Output</p>
 
 ## Conclusion
 
