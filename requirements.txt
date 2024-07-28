@@ -1,0 +1,15 @@
+# Requirements for Breadboard Simulator
+
+# Java Development Kit
+openjdk-11-jdk
+
+# Swing library (comes with JDK)
+# No need to specify javax.swing explicitly, as it is part of the standard library
+
+# Applet library (comes with JDK)
+# No need to specify java.applet explicitly, as it is part of the standard library
+
+# AWT library (comes with JDK)
+# No need to specify java.awt explicitly, as it is part of the standard library
+
+# No additional external libraries are required
